@@ -78,7 +78,7 @@ My work lives at the intersection of **software development**, **academic techno
 | 📊 R-based tutoring analytics | Drove 20% improvement in tutor allocation |
 | ⚡ SQL performance tuning | Measurably reduced latency on high-volume workloads |
 | 🎓 Blackboard, Brightspace & EAB Navigate admin | Faculty onboarding, training & ongoing support |
-| 🔗 RESTful APIs & SOAP/WCF Web Services | Connecting institutional systems across CUNY |
+| 🔗 RESTful APIs & SOAP/WCF Web Services | Connecting institutional systems |
 
 ---
 
