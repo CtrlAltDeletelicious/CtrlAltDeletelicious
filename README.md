@@ -18,12 +18,14 @@ I'm a **.NET Developer and Technology Operation Specialist** with **11+ years of
 
 My work lives at the intersection of **software development**, **academic technology**, and **data analysis** — building the platforms that keep an institution running, while also supporting the faculty, staff, and students who use them every day.
 
-- 🏫 &nbsp;Currently at **Queensborough Community College (CUNY)**, Bayside, NY
-- 🖥️ &nbsp;I build and maintain **enterprise web applications** using ASP.NET MVC & Web Forms
-- 🎓 &nbsp;I support **Blackboard**, **Brightspace (D2L)**, **Starfish** and **EAB Navigate**
-- 📊 &nbsp;I analyze institutional data using **R / RStudio** and deliver insights to academic leadership
-- 🔄 &nbsp;I've executed complex **Oracle DB migrations** (9i → 18c) with zero downtime
-- 🤖 &nbsp;Recently earned my **Google AI Professional Certificate** (2026)
+
+- **Full-stack enterprise web applications** — ASP.NET Web Forms, ASP.NET MVC, Web API (.NET Framework through .NET 8)
+- **Database engineering** — schema design, stored procedures, query optimization, and large-scale migrations (Oracle 9i → 18c zero-downtime)
+- **Data access** — ADO.NET and Dapper against SQL Server and Oracle backends
+- **Systems integration** — RESTful APIs, SOAP/WCF Web Services, SMTP
+- **Reporting & analytics** — Crystal Reports, SSRS, and R-based semester analyses delivered to institutional leadership
+- **Security** — Forms Authentication, custom role-based authorization
+ 
 
 ---
 
@@ -82,17 +84,18 @@ My work lives at the intersection of **software development**, **academic techno
 
 ---
 
-## 📜 Certifications
-
-- 🤖 **Google AI Professional Certificate** — Coursera / Google (2026)
-- 🗄️ **Microsoft Technology Associate (MTA): Database Fundamentals** — (2017)
-
----
-
 ## 🎓 Education
 - **M.S. Data Science** (coursework) — CUNY School of Professional Studies
 - **B.S., Computer Information Systems** — NYC College of Technology (CUNY), 2017
 
+
+---
+
+## 📜 Certifications
+
+- 🤖 **Google AI Professional Certificate** — Coursera / Google (2026) [Verify ↗](https://www.credly.com/badges/d03bb211-3ff3-4f4a-970f-a15125bae6ba/public_url)  
+- 🗄️ **AWS Certified Cloud Practitioner** — (2019) [Verify ↗](https://www.credly.com/badges/10e811b3-32ae-4228-86af-5fa7c77ed4ad/public_url)
+- 🗄️ **Microsoft Technology Associate (MTA): Database Fundamentals** — (2019) [Verify ↗](https://www.credly.com/badges/d03bb211-3ff3-4f4a-970f-a15125bae6ba/public_url)
 
 ---
 
