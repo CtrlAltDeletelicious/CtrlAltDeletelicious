@@ -69,18 +69,6 @@ My work lives at the intersection of **software development**, **academic techno
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CtrlAltDeletelicious&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAltDeletelicious&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 | What | Impact |
