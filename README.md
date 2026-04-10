@@ -2,7 +2,7 @@
 
 # Hi, I'm Vinayak Patel 👋
 
-### .NET Developer &  Technology Operation Specialist · New York
+### .NET Developer | Data Operation Specialist | Data Scientist · New York
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-vinayak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.vinayak234@gmail.com)
